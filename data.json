@@ -1,9 +1,12 @@
 {
-  "appid": "X1234",
+  "internal": {
+    "appid": "X1234"
+  },
   "project_code": "modern_data",
   "prefixes": [
     "md",
     "sd",
     "ab"
-  ]
+  ],
+  "cleanup": "sponge"
 }
